@@ -17,10 +17,10 @@ This project is a backend for an eCommerce platform that allows users to perform
 ###  Technologies used
 
 This project was created using the following technologies.
+ - **Node.js**: JavaScript runtime 
+  - **Express.js**: Web framework for Node.js
+  - **MongoDB** : NoSQL database
+  - **Mongoose**:  ODM (Object module mapper) for MongoDB
+  - ** JTW** :  Token-based authentication
 
--**Node.js** : JavaScript runtime
--**Express.js**: Web framework for Node.js
--**MongoDB** : NoSQL database
--**Mongoose**: ODM (Object module mapper) for MongoDB
--**JWT**: Token-based authentication
 
