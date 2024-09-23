@@ -23,6 +23,8 @@ This project was created using the following technologies.
   - **Mongoose**:  ODM (Object module mapper) for MongoDB
   - **Jwt** :  Token-based authentication
 ###  Snapshorts
+Here we have created a admin of this server which have the right to create categories add products and add Products to cart
+and this can be achieve only with admin access Token
    ~ ![accessToken](https://github.com/user-attachments/assets/9b0cd976-ee9c-464e-9256-84c30b1b422b)
 
 
