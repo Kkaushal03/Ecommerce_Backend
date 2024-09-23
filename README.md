@@ -22,5 +22,7 @@ This project was created using the following technologies.
   - **MongoDB** : NoSQL database
   - **Mongoose**:  ODM (Object module mapper) for MongoDB
   - **Jwt** :  Token-based authentication
+###  Snapshorts
+   ~ ![accessToken](https://github.com/user-attachments/assets/9b0cd976-ee9c-464e-9256-84c30b1b422b)
 
 
