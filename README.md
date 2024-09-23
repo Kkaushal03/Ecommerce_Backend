@@ -25,8 +25,7 @@ This project was created using the following technologies.
 ###  Snapshorts
 Here we have created a admin of this server which have the right to create categories add products and add Products to cart
 and this can be achieve only with admin access Token
-   ~ ![accessToken](https://github.com/user-attachments/assets/9b0cd976-ee9c-464e-9256-84c30b1b422b)
-![categories](https://github.com/user-attachments/assets/4f91652d-a309-4160-a3dc-16d77905c134)
+   
 
 
 
