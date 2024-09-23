@@ -21,6 +21,6 @@ This project was created using the following technologies.
   - **Express.js**: Web framework for Node.js
   - **MongoDB** : NoSQL database
   - **Mongoose**:  ODM (Object module mapper) for MongoDB
-  - ** JTW** :  Token-based authentication
+  - **Jwt** :  Token-based authentication
 
 
