@@ -26,10 +26,12 @@ This project was created using the following technologies.
 Here we have created a admin of this server which have the right to create categories add products and add Products to cart
 and this can be achieve only with admin access Token
    
-![categories is created thorugh admin](https://github.com/user-attachments/assets/fd031ffa-0f32-4892-8f09-e64cf3840dc3)
+
 ![customer is created](https://github.com/user-attachments/assets/836d7b20-7dec-439a-b072-055fd6ab7d33)
 ![customer sigin with acess TOken](https://github.com/user-attachments/assets/84c032a1-926f-4555-98ea-c2f9372c20dc)
 ![customer can't create category due to unauthrpized](https://github.com/user-attachments/assets/f5978d3a-944d-4bef-8b5b-fba92a11a141)
+
+![categories is created thorugh admin](https://github.com/user-attachments/assets/fd031ffa-0f32-4892-8f09-e64cf3840dc3)
 
 
 
